@@ -1,0 +1,45 @@
+html,
+body {
+    font-family: "Lucida Sans Unicode", Helvetica, sans-serif;
+    text-align: center;
+}
+
+#main {
+    margin: 20px auto;
+    padding: 20px;
+    border: 0px solid;
+    border-radius: 7px;
+    background: #D3D3D3;
+    background-image:
+}
+
+img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: auto;
+}
+
+#img-div {
+    margin: -5px;
+    margin-top: 10px;
+    width: 100%;
+    border: 10px solid white;
+    background: white;
+}
+
+#img-caption {
+    margin: 10px;
+
+}
+
+#headline {
+    margin: 40px;
+    text-align: center;
+}
+
+ul {
+    max-width: 550px;
+    text-align: left;
+    margin: 0 auto;
+}
